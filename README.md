@@ -9,6 +9,6 @@
 - `statsmodels`
 
 ## Running
-**Running:**
+**Running in `cmd.exe`:**
 <br>`$ pip install -r requirements.txt`
 <br>`$ streamlit run PA_1_0.3.py`
