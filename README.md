@@ -4,7 +4,7 @@
 <br>
 
 ## Requirements
-**Libraries Required:**
+**`Python` Libraries Required:**
 - `streamlit`
 - `statsmodels`
 
