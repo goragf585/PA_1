@@ -4,7 +4,7 @@
 <br>
 
 ## Requirements
-**Requirements:**
+**Libraries Required:**
 - `streamlit`
 - `statsmodels`
 
